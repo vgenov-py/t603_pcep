@@ -1,4 +1,5 @@
 ### PCEP Multitest
+## ¡ANTES DE EMPEZAR A TRABAJAR HACER PULL! (git pull origin develop)
 
 <a href="https://pythoninstitute.org/certification/pcep-certification-entry-level/pcep-exam-syllabus/">Python Institute</a>
 ### Asignación de bloques:
@@ -8,6 +9,7 @@
 * **Bloque 4:** Vito, Daniel
 
 ### Esquema de las preguntas:
+## ¡ANTES DE EMPEZAR A TRABAJAR HACER PULL! (git pull origin develop)
 
 ```js
 "Nombre del Bloque": [ // Los nombres de los bloques ya han sido definidos
@@ -21,6 +23,9 @@
 ```
 
 ### Iniciar repo
+### SOLO PUSH EN DEVELOP
+## ¡ANTES DE EMPEZAR A TRABAJAR HACER PULL! (git pull origin develop)
+
 ```bash
 git clone https://github.com/vgenov-py/t603_pcep
 cd t603_pcep
