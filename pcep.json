@@ -6,6 +6,16 @@
             "op1","op2 (CORRECTA)","op3"
         ],
         "answer": 0
+    },
+    {
+        "question": "What is an abstract class?",
+        "options": [
+            "An abstract class is the name for any class from which you can instantiate an object.",
+            "Abstract classes must be redefined any time an object is instantiated from them.",
+            "Abstract classes must inherit from concrete classes.",
+            "An abstract class exists only so that other 'concrete' classes can inherit from the abstract class."
+        ],
+        "answer": 3
     }
 ],
   "1_Computer_Programming_and_Python_Fundamentals": [],
