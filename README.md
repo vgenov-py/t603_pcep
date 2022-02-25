@@ -19,3 +19,14 @@
         "answer": 0 // Indice de la opción correcta (En este caso la opción correcta es la primera)
     }
 ```
+
+### Iniciar repo
+```bash
+git clone https://github.com/vgenov-py/t603_pcep
+cd t603_pcep
+git checkout develop
+echo "Agregas preguntas... SOY UN COMENTARIO NO HAGO NADA"
+git add pcep.json
+git commit -m "Agregué muchas preguntas"
+git push origin develop
+```
