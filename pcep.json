@@ -92,5 +92,56 @@
         }
     ],
     "3_Data_Collections_Tuples_Dictionaries_Lists_and_Strings": [],
-    "4_Functions_and_Exceptions": []
+    "4_Functions_and_Exceptions": [{
+        "question": "Which of the following statements regarding functions definition are correct?",
+        "options": [
+            "A parameter is the value that is sent to the function when it is called",
+            "Parameters are specified after the function name, inside the parentheses.",
+            "A parameter is the variable listed inside the parentheses in the function definition.",
+            "In Python a function is defined using the define keyword."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How many arguments can be passed into functions?",
+        "options": [
+            "Only one.",
+            "Up to two arguments.",
+            "At least 1 argument.",
+            "As many arguments as you want."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If you do not know the number of arguments that will be passed into your function, there is a prefix you can add in the function definition, which prefix?.",
+        "options": [
+            "?",
+            "*",
+            "**",
+            "/"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following statements regarding Exceptions are True?",
+        "options": [
+            "If a statement or expression is syntactically correct, it won´t cause an Exception.",
+            "Excetions need to be handled, otherwise no error messages are shown in terminal.",
+            "Most exceptions are not handled by programs, and result in error messages shown in terminal:",
+            "Exceptions are related to statements sintax"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "It is possible to write programs that handle selected exceptions. What are the correct statements to do so?",
+        "options": [
+            "If / pass",
+            "Try / Exception",
+            "raise / else",
+            "Try / Except"
+        ],
+        "answer": 3
+    }
+    
+    ]
 }
