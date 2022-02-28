@@ -27,7 +27,7 @@
                 "-/h/-",
                 ">---"
             ],
-            "answer": 1   
+            "answer": 0   
         },
         {
             "question": "What do you mean by keywords in python?",
@@ -37,7 +37,7 @@
                 "Keywords are reserved words. We can not use keywords for variable name or any other identifier.",
                 "Keywords are reserved words, but can be used also for variable name."
             ],
-            "answer": 3   
+            "answer": 2   
         },
         {
             "question": "What is the purpose of type() function?",
@@ -47,7 +47,7 @@
                 "It's used to set the type of a variable.",
                 "It's used to tell us about the data type of a variable."
             ],
-            "answer": 4   
+            "answer": 3   
         },
         {
             "question": "What is the purpose of input function?",
@@ -57,7 +57,7 @@
                 "input() function is used to take/accept data from the user.",
                 "input() function is used to send data to an object."
             ],
-            "answer": 3   
+            "answer": 2   
         }
 
 
