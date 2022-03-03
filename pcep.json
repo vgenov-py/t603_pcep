@@ -134,7 +134,58 @@
             "answer": 1
         }
     ],
-    "3_Data_Collections_Tuples_Dictionaries_Lists_and_Strings": [],
+    "3_Data_Collections_Tuples_Dictionaries_Lists_and_Strings": [
+        {
+            "question": "Which syntax correctly creates a variable that is bound to a tuple?",
+            "options": [
+                "my_tuple tup(2, 'apple', 3.5) %D",
+                "my_tuple [2, 'apple', 3.5].tuple() %D",
+                "my_tuple = (2, 'apple', 3.5)",
+                "my_tuple = [2, 'apple', 3.5]"
+            ],
+            "answer": 2
+        },
+        {
+            "question":"What built-in list method would you use to remove items from a list?",
+            "options": [
+                ".delete() method",
+                "pop(my_list)",
+                "del(my_list)",
+                ".pop() method"
+            ],
+            "answer": 3
+        },
+        {
+            "question":"What built-in Python data type is best suited for implementing a queue?",
+            "options":[
+                "dictionary",
+                "set",
+                "None. You can only build a queue from scratch.",
+                "list"
+            ],
+            "answer":3
+        },
+        {
+            "question":"What is the proper way to write a list comprehension that represents all the keys in this dictionary? fruits = {'Apples': 5, 'Oranges': 3, 'Bananas': 4}",
+            "options":[
+                "fruit_names = [x in fruits.keys() for x]",
+                "fruit_names = for x in fruits.keys() *",
+                "fruit_names = [x for x in fruits.keys()]",
+                "fruit_names = x for x in fruits.keys()"
+            ],
+            "answer": 2
+        },
+        {
+            "question":"What is the primary difference between lists and tuples?",
+            "options":[
+                "You can access a specifc element in a list by indexing to its position, but you cannot access a specific element in a tuple unless you iterate through the tuple",
+                "Lists are mutable, meaning you can change the data that is inside them at any time. Tuples are immutable, meaning you cannot change the data that is inside them once you have created the tuple.",
+                "Lists are immutable, meaning you cannot change the data that is inside them once you have created the list. Tuples are mutable, meaning you can change the data that is inside them at any time.",
+                "Lists can hold several data types inside them at once, but tuples can only hold the same data type if multiple elements are present."
+            ],
+            "answer": 1
+        }
+    ],
     "4_Functions_and_Exceptions": [{
         "question": "Which of the following statements regarding functions definition are correct?",
         "options": [
